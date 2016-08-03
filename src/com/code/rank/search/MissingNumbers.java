@@ -1,4 +1,4 @@
-package com.code.rank;
+package com.code.rank.search;
 
 import java.util.HashMap;
 import java.util.Map;

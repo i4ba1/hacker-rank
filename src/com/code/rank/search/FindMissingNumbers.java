@@ -1,4 +1,4 @@
-package com.code.rank;
+package com.code.rank.search;
 
 /**
  * Created by Administrator on 7/14/2016.
